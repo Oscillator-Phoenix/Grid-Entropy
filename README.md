@@ -1,1 +1,1 @@
-An example of CMake + CUDA + OpenMp.
+An example of CMake + CUDA + OpenMP.
